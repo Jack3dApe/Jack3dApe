@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on full-stack applications using Laravel, React, Angular, .NET<br>🚀 Building AI-powered tools with OpenAI API and automation workflows<br>🐳 Deploying and managing apps in Linux environments with Docker<br>🌱 Currently improving my skills in backend architecture, scalable APIs, and cloud deployment
+🔭 Working on full-stack applications using Laravel, React, Angular and .NET<br>🚀 Building AI-powered tools with OpenAI API and automation workflows<br>🐳 Deploying and managing apps in Linux environments with Docker<br>🌱 Currently improving my skills in backend architecture, scalable APIs, and cloud deployment
 
 
 ## 🌐 Socials:
